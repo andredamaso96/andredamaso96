@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm André Dâmaso</h1>
 <h3 align="center">I'm a software engineer focused in .NET.</h3>
 
-- 🔭 I’m currently working in **T-Systems Ibéria**
+- 🔭 I’m currently working in **Letsgetchecked**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
